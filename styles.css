@@ -14,15 +14,6 @@ p {
   font-family: courier;
   font-size: 160%;
 }
-div {
-  color: yellow;
-  font-family: courier;
-  font-size: 160%;
-}
-span {
-  color:blue;
-  font-weight:bold;
-}
 a:link {
   color: green;
   background-color: transparent;
