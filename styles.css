@@ -1,18 +1,9 @@
 body {
-  background-image: url('sky.jfif');
-  background-repeat: no-repeat;
+  background-image: url('image/mami.jpg');
   background-size: 100% 100%;
 }
-h1 {
-  color: blue;
-}
-h2 {
-  background-image: url('dem.jfif');
-  background-size: 100% 100%;
 p {
-  color: red;
-  font-family: courier;
-  font-size: 160%;
+  background-image: url('image/thuankieuplaza.jpg');
 }
 a:link {
   color: green;
